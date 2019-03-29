@@ -10,7 +10,7 @@ public class Fase3 {
     
     List<Character> name = Arrays.asList('a', 'g', 'u', 's', 't','i','n');
    
-    //<char of vowels, and int of times repeated in the list "name">
+    //<char of letters, and int of times repeated in the list "name">
     Map<Character,Integer> listedName = new HashMap<Character,Integer>();
     listedName.put('a', 1);
     listedName.put('g', 1);
